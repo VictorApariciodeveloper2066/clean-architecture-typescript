@@ -1,0 +1,29 @@
+{
+  "name": "cleanarchitecture",
+  "version": "1.0.0",
+  "description": "Clean architecture with typescript",
+  "keywords": [
+    "clean"
+  ],
+  "homepage": "https://github.com/VictorApariciodeveloper2066/clean-architecture-typescript#readme",
+  "bugs": {
+    "url": "https://github.com/VictorApariciodeveloper2066/clean-architecture-typescript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorApariciodeveloper2066/clean-architecture-typescript.git"
+  },
+  "license": "ISC",
+  "author": "vic#dev",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.4"
+  }
+}
